@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A7D4DCA22383567000C0083 /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7D4DC922383567000C0083 /* ViewControllerTwo.swift */; };
+		8AD580B2224C7A5E00B36C59 /* ViewControllerAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AD580B1224C7A5E00B36C59 /* ViewControllerAlert.swift */; };
 		8AFE7731221E358000A3900D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE7730221E358000A3900D /* AppDelegate.swift */; };
 		8AFE7733221E358000A3900D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE7732221E358000A3900D /* ViewController.swift */; };
 		8AFE7736221E358000A3900D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AFE7734221E358000A3900D /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8A7D4DC922383567000C0083 /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
+		8AD580B1224C7A5E00B36C59 /* ViewControllerAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerAlert.swift; sourceTree = "<group>"; };
 		8AFE772D221E358000A3900D /* Choose Your Own Adventure.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Choose Your Own Adventure.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AFE7730221E358000A3900D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8AFE7732221E358000A3900D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,9 +61,11 @@
 				8AFE7730221E358000A3900D /* AppDelegate.swift */,
 				8AFE7732221E358000A3900D /* ViewController.swift */,
 				8AFE7734221E358000A3900D /* Main.storyboard */,
+				8A7D4DC922383567000C0083 /* ViewControllerTwo.swift */,
 				8AFE7737221E358100A3900D /* Assets.xcassets */,
 				8AFE7739221E358100A3900D /* LaunchScreen.storyboard */,
 				8AFE773C221E358100A3900D /* Info.plist */,
+				8AD580B1224C7A5E00B36C59 /* ViewControllerAlert.swift */,
 			);
 			path = "Choose Your Own Adventure";
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			files = (
 				8AFE7733221E358000A3900D /* ViewController.swift in Sources */,
 				8AFE7731221E358000A3900D /* AppDelegate.swift in Sources */,
+				8A7D4DCA22383567000C0083 /* ViewControllerTwo.swift in Sources */,
+				8AD580B2224C7A5E00B36C59 /* ViewControllerAlert.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
